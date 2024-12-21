@@ -26,6 +26,10 @@ Carry = AB + ACin + BCin
 
 **Figure -1 FULL ADDER**
 
+**Truth Table**
+
+![image](https://github.com/user-attachments/assets/52815c22-b6e7-4c1c-81b7-5ab2b16e6396)
+
 **Full Subtractor**
 
 A full subtractor is a combinational circuit that performs subtraction involving three bits, namely minuend, subtrahend, and borrow-in . It accepts three inputs: minuend, subtrahend and a borrow bit and it produces two outputs: difference and borrow.
@@ -35,6 +39,10 @@ A full subtractor is a combinational circuit that performs subtraction involving
 Diff = A ⊕ B ⊕ Bin 
 
 Borrow out = A'Bin + A'B + BBin
+
+**Truth Table**
+
+![image](https://github.com/user-attachments/assets/4af36354-b86a-43ef-9e91-75eb18871645)
 
 **Procedure**
 
