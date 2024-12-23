@@ -73,7 +73,7 @@ assign car = ( (A & B) | ( (A ^ B) &Cin) ) ;
 endmodule
 ```
 
-Full Subractor
+Full Subtractor
 
 ```
 module Lab4Fs (A, B, Bin, diff, bor) ;
@@ -90,7 +90,7 @@ Full Adder
 
 ![Screenshot (57)](https://github.com/user-attachments/assets/404070cb-586b-4a9f-8689-4af56b974804)
 
-Full Subractor
+Full Subtractor
 
 ![Screenshot (60)](https://github.com/user-attachments/assets/2a666866-8c75-4ab0-9384-f92f44b9caf8)
 
@@ -101,7 +101,7 @@ Full Adder
 
 ![Screenshot (58)](https://github.com/user-attachments/assets/6d9e7146-410d-45b2-aa9c-2fc345d5feed)
 
-Full Subractor
+Full Subtractor
 
 ![Screenshot (61)](https://github.com/user-attachments/assets/83e45b6b-2f84-432a-a36b-fc718dc0ef25)
 
